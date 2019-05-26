@@ -1,0 +1,15 @@
+#Sentiment Analysis Data
+wget https://raw.githubusercontent.com/egeersu/LSTMN/master/labels.txt
+wget https://raw.githubusercontent.com/egeersu/LSTMN/master/sentences.txt
+
+#Inference Data
+wget https://nlp.stanford.edu/projects/snli/snli_1.0.zip
+
+#Stanford Glove Word Embeddings
+wget http://nlp.stanford.edu/data/glove.42B.300d.zip
+unzip glove.42B.300d.zip
+
+#AWS
+jupyter notebook --no-browser --port=8888 
+ssh -i ersu.pem -L 8000:localhost:8888 ec2-user@
+
