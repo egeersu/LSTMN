@@ -7,3 +7,5 @@ wget https://nlp.stanford.edu/projects/snli/snli_1.0.zip
 
 #Stanford Glove Word Embeddings
 wget http://nlp.stanford.edu/data/glove.42B.300d.zip
+
+Make sure to Unzip before running the code!
