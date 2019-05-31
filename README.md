@@ -14,7 +14,7 @@ data
 	
 	inference
 
-weights: model weights can be used via Knet.load()
+weights.txt: model weights can be downloaded through the links provided and used via Knet.load()
 	
 	lstm46.jld2
 	
@@ -22,4 +22,4 @@ weights: model weights can be used via Knet.load()
 	
 	inference-weights.jld2
 
-init.txt: direct links to download data and embeddings (make sure they are downloaded to the models folder)
+init.txt: direct links to download data and embeddings (make sure they are downloaded into the models folder)
