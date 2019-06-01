@@ -18,6 +18,8 @@ weights.txt: model weights can be downloaded through the links provided and used
 	
 	lstm46.jld2
 	
+	binarysentiment.jld2
+	
 	fine-grained.jld2
 	
 	inference-weights.jld2
