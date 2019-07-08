@@ -23,15 +23,13 @@ The data is available at:
 
 ### Pre-trained Weights
 
-Model weights can be downloaded through the following links: 
+Pre-trained model weights can be downloaded through the following links: 
 	
-	lstm46.jld2
+	[binarysentiment.jld2](https://drive.google.com/file/d/1Yt0-RFg8Vskb4CUKZ3WJuZ-WKFQEXgGy/view?usp=sharing)
 	
-	binarysentiment.jld2
+	[fine-grained.jld2](https://drive.google.com/file/d/1STso_03bVUOGoZKLBnlPmx6Q6yeoB5wp/view?usp=sharing)
 	
-	fine-grained.jld2
-	
-	inference-weights.jld2
+	[inference-weights.jld2](https://drive.google.com/file/d/1FvtMoDDW5FgKpTzhg9TVbHl5FtNYEkoJ/view?usp=sharing)
 
 Weights can be read via Knet.load(). Check out the model notebooks to see how it is used. 
 
