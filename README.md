@@ -1,7 +1,7 @@
 ## Long-Short-Term-Memory-Networks for Machine Reading
 Implementation of [Long-Short-Term-Memory-Networks](https://arxiv.org/abs/1601.06733) using Julia and [Knet.](https://github.com/egeersu/Knet.jl)
 
-Term Project for [Comp541: Deep Learning](https://sites.google.com/a/ku.edu.tr/comp541/)
+Term Project for [COMP541: Deep Learning](https://sites.google.com/a/ku.edu.tr/comp541/)
 
 ### Models
 
