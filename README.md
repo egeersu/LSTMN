@@ -7,11 +7,11 @@ Term Project for [COMP541: Deep Learning](https://sites.google.com/a/ku.edu.tr/c
 
 There are 3 different variations of the model, each modified to solve a certain task:
 	
-[Binary Sentiment Classification](/models/Binary Sentiment Classification.ipynb)
+[Binary Sentiment Classification](https://github.com/egeersu/LSTMN/blob/master/models/Binary%20Sentiment%20Classification.ipynb)
 		
-Fine-Grained Sentiment Classification
+[Fine-Grained Sentiment Classification](https://github.com/egeersu/LSTMN/blob/master/models/Fine-Grained%20Sentiment%20Classification.ipynb)
 	
-Natural Language Inference
+[Natural Language Inference](https://github.com/egeersu/LSTMN/blob/master/models/Natural%20Language%20Inference.ipynb)
 	
 ### Data
 
