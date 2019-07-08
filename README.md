@@ -22,7 +22,7 @@ There are 3 variations of the model, each modified to solve a certain task:
 
 ### Embeddings
 
-[*GloVe: Global Vectors for Word Representation:* ](https://nlp.stanford.edu/projects/glove/): [**Download Embeddings**](http://nlp.stanford.edu/data/glove.42B.300d.zip)
+[*GloVe: Global Vectors for Word Representation:* ](https://nlp.stanford.edu/projects/glove/) [**Download Embeddings**](http://nlp.stanford.edu/data/glove.42B.300d.zip)
 
 ### Pre-trained Weights
 	
