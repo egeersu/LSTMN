@@ -20,6 +20,10 @@ There are 3 variations of the model, each modified to solve a certain task:
 [*The Stanford Natural Language Inference (SNLI) Corpus*](https://nlp.stanford.edu/projects/snli/): [**Download Inference Data**](https://nlp.stanford.edu/projects/snli/snli_1.0.zip)
 
 
+### Embeddings
+
+[*GloVe: Global Vectors for Word Representation:* ](https://nlp.stanford.edu/projects/glove/): [**Download Embeddings**](http://nlp.stanford.edu/data/glove.42B.300d.zip)
+
 ### Pre-trained Weights
 	
 - [binarysentiment.jld2](https://drive.google.com/file/d/1Yt0-RFg8Vskb4CUKZ3WJuZ-WKFQEXgGy/view?usp=sharing)
