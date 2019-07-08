@@ -1,4 +1,5 @@
-# Long-Short-Term-Memory-Networks for Machine Reading
+## Long-Short-Term-Memory-Networks for Machine Reading
+Julia / Knet implementation of [Long-Short-Term-Memory-Networks](https://arxiv.org/abs/1601.06733)
 
 models: make sure the embeddings/data/weights are in this folder, simply run from top to bottom. You can experiment with your own inputs.
 	
