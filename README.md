@@ -1,4 +1,4 @@
-Long-Short-Term-Memory-Networks for Machine Reading
+# Long-Short-Term-Memory-Networks for Machine Reading
 
 models: make sure the embeddings/data/weights are in this folder, simply run from top to bottom. You can experiment with your own inputs.
 	
