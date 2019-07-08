@@ -23,7 +23,7 @@ The data is available at:
 
 ### Pre-trained Weights
 
-Model weights can be downloaded through be downloaded through the links provided and used via Knet.load()
+Model weights can be downloaded through the following links: 
 	
 	lstm46.jld2
 	
@@ -32,5 +32,7 @@ Model weights can be downloaded through be downloaded through the links provided
 	fine-grained.jld2
 	
 	inference-weights.jld2
+
+Weights can be read via Knet.load(). Check out the model notebooks to see how it is used. 
 
 init.txt: direct links to download data and embeddings (make sure they are downloaded into the models folder)
