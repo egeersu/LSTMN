@@ -5,7 +5,7 @@ Term Project for [COMP541: Deep Learning](https://sites.google.com/a/ku.edu.tr/c
 
 ### Models
 
-There are 3 different variations of the model, each modified to solve a certain task:
+There are 3 variations of the model, each modified to solve a certain task:
 	
 - [Binary Sentiment Classification](https://github.com/egeersu/LSTMN/blob/master/models/Binary%20Sentiment%20Classification.ipynb)
 		
