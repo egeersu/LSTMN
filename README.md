@@ -15,11 +15,7 @@ There are 3 different variations of the model, each modified to solve a certain 
 	
 ### Data
 
-The data is available at:
-	
-sentiment analysis
-	
-inference
+[Stanford Sentiment Treebank](https://nlp.stanford.edu/sentiment)
 
 ### Pre-trained Weights
 	
