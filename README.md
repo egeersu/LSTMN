@@ -15,14 +15,13 @@ There are 3 variations of the model, each modified to solve a certain task:
 	
 ### Data
 
-[*Stanford Sentiment Treebank*](https://nlp.stanford.edu/sentiment): [**Download Labels**](https://raw.githubusercontent.com/egeersu/LSTMN/master/data/sentiment%20analysis/labels.txt), [**Download Sentences.**](https://raw.githubusercontent.com/egeersu/LSTMN/master/data/sentiment%20analysis/sentences.txt)
+- [*Stanford Sentiment Treebank*](https://nlp.stanford.edu/sentiment): [**Download Labels**](https://raw.githubusercontent.com/egeersu/LSTMN/master/data/sentiment%20analysis/labels.txt), [**Download Sentences.**](https://raw.githubusercontent.com/egeersu/LSTMN/master/data/sentiment%20analysis/sentences.txt)
 
-[*The Stanford Natural Language Inference (SNLI) Corpus*](https://nlp.stanford.edu/projects/snli/): [**Download Inference Data**](https://nlp.stanford.edu/projects/snli/snli_1.0.zip)
+- [*The Stanford Natural Language Inference (SNLI) Corpus*](https://nlp.stanford.edu/projects/snli/): [**Download Inference Data**](https://nlp.stanford.edu/projects/snli/snli_1.0.zip)
 
 
 ### Embeddings
-
-[*GloVe: Global Vectors for Word Representation:* ](https://nlp.stanford.edu/projects/glove/) [**Download Embeddings**](http://nlp.stanford.edu/data/glove.42B.300d.zip)
+- [*GloVe: Global Vectors for Word Representation:* ](https://nlp.stanford.edu/projects/glove/) [**Download Embeddings**](http://nlp.stanford.edu/data/glove.42B.300d.zip)
 
 ### Pre-trained Weights
 	
