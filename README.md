@@ -15,9 +15,9 @@ There are 3 different variations of the model, each modified to solve a certain 
 	
 ### Data
 
-[Stanford Sentiment Treebank](https://nlp.stanford.edu/sentiment): [Labels](https://raw.githubusercontent.com/egeersu/LSTMN/master/data/sentiment%20analysis/labels.txt), [Sentences.](https://raw.githubusercontent.com/egeersu/LSTMN/master/data/sentiment%20analysis/sentences.txt)
+[Stanford Sentiment Treebank](https://nlp.stanford.edu/sentiment): [**Download Labels**](https://raw.githubusercontent.com/egeersu/LSTMN/master/data/sentiment%20analysis/labels.txt), [**Download Sentences.**](https://raw.githubusercontent.com/egeersu/LSTMN/master/data/sentiment%20analysis/sentences.txt)
 
-[The Stanford Natural Language Inference (SNLI) Corpus](https://nlp.stanford.edu/projects/snli/): [JSON File](https://nlp.stanford.edu/projects/snli/snli_1.0.zip)
+[The Stanford Natural Language Inference (SNLI) Corpus](https://nlp.stanford.edu/projects/snli/): [**Download Inference Data**](https://nlp.stanford.edu/projects/snli/snli_1.0.zip)
 
 
 ### Pre-trained Weights
