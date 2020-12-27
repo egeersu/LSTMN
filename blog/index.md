@@ -3,4 +3,4 @@
 * This is a blog post.
 * This is a sentence.
 * Nice.
-* [Back to webpage][./index.md]
+* [Back to webpage][index.md]
