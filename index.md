@@ -4,4 +4,5 @@
 
 * Let's
 * Go
-* Heheh
+* Heheh*
+* [Read me!]('README.md')
